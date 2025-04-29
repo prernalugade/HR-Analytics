@@ -16,7 +16,7 @@ To predict employee attrition and understand key factors leading to resignations
 ## Deliverables
 - Jupyter Notebook (.ipynb)
 - Power BI dashboard (.pbix)
-- hDashboard Screenshot (.pdf)
+- Dashboard Screenshot (.pdf)
 
 ## Key Insights
 - High attrition in Sales and HR departments
